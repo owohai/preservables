@@ -1,0 +1,6 @@
+{
+	"clientId": "client",
+	"guildId": "guild to publish commands to",
+  "logging": "a channel you'd like to ignore",
+	"token": "common sense"
+}
